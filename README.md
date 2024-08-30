@@ -1,5 +1,5 @@
 <p width= "100%" align="center">
-    <img src="./image/logo.jpg" alt="logo"
+    <img src="./image/github-capa.jpg" alt="logo"
     width="600px">
 </p>
 
